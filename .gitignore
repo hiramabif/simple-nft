@@ -12,3 +12,7 @@ docs/
 
 # Dotenv file
 .env
+broadcast/
+
+.notes.md
+.notes.md
